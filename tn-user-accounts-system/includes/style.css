@@ -1,0 +1,21 @@
+.admin_white_box{
+    background-color: white; padding: 20px; box-sizing: border-box; width: 100%; margin-bottom: 20px;
+}
+
+div.admin_white_box h1, 
+div.admin_white_box h2, 
+div.admin_white_box h3, 
+div.admin_white_box h4, 
+div.admin_white_box h5, 
+div.admin_white_box p{
+    margin: 0px;
+    margin-bottom: 15px;
+}
+
+div.admin_white_box input,
+div.admin_white_box select{
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 50%;
+}
